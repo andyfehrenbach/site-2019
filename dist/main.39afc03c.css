@@ -1,0 +1,18 @@
+.background {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+
+.DropCap {
+  font-family: "playfair display", serif;
+  font-weight: 900;
+  line-height: 0;
+  position: absolute;
+  bottom: -57vw;
+  font-size: 220vw;
+  margin-left: -50vw;
+  filter: blur(3px);
+}
+
+/*# sourceMappingURL=/main.39afc03c.css.map */
